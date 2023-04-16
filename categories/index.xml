@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Categories on My New Hugo Site</title><link>/categories/</link><description>Recent content in Categories on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - My New Hugo Site</title>
+        <link>http://example.org/categories/</link>
+        <description>Categories - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 19:06:39 &#43;0545</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Article</title>
+    <link>http://example.org/categories/article/</link>
+    <pubDate>Sat, 15 Apr 2023 19:06:39 &#43;0545</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/categories/article/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
