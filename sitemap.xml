@@ -2,10 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
-            <loc>/posts/masculanity/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
-            <loc>/tags/modern/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
-            <loc>/categories/philoshopy/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
-            <loc>/posts/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
-            <loc>/tags/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
-            <loc>/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url></urlset>
+            <loc>http://example.org/about/</loc><lastmod>2023-04-16T22:37:20&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/categories/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/posts/masculine/masculanity/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/tags/modern/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/categories/philoshopy/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2023-04-16T20:50:46&#43;05:45</lastmod></url></urlset>

@@ -1,17 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>modern - Tag - Unish Khadka</title>
-        <link>/tags/modern/</link>
+        <link>http://example.org/tags/modern/</link>
         <description>modern - Tag - Unish Khadka</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>khadkaunish321 (Unish Khadka)</managingEditor>
-            <webMaster>khadkaunish321 (Unish Khadka)</webMaster><lastBuildDate>Sun, 16 Apr 2023 20:50:46 &#43;0545</lastBuildDate><atom:link href="/tags/modern/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>khadkaunish321 (Unish Khadka)</webMaster><lastBuildDate>Sun, 16 Apr 2023 20:50:46 &#43;0545</lastBuildDate><atom:link href="http://example.org/tags/modern/" rel="self" type="application/rss+xml" /><item>
     <title>Masculanity</title>
-    <link>/posts/masculanity/</link>
+    <link>http://example.org/posts/masculine/masculanity/</link>
     <pubDate>Sun, 16 Apr 2023 20:50:46 &#43;0545</pubDate>
     <author>Unish Khadka</author>
-    <guid>/posts/masculanity/</guid>
-    <description><![CDATA[My Thumbnail Image Masculinity: Masculinity refers to the set of characteristics and behaviors that are traditionally associated with being a man. While the specific traits and behaviors that are considered masculine can vary across cultures and over time, some common features of masculinity include strength, competitiveness, assertiveness, and emotional resilience.
-Historically, masculinity has been closely linked with power and dominance, particularly in patriarchal societies where men have held positions of authority over women.]]></description>
+    <guid>http://example.org/posts/masculine/masculanity/</guid>
+    <description><![CDATA[Masculinity: Masculinity refers to the set of characteristics and behaviors that are traditionally associated with being a man. While the specific traits and behaviors that are considered masculine can vary across cultures and over time, some ubiquitous features of masculinity include strength, competitiveness, assertiveness, and emotional resilience. Historically, masculinity has been closely linked with power and dominance, particularly in patriarchal societies where men have held positions of authority. This has led to the development of a range of cultural norms and expectations surrounding what it means to be a &ldquo;real man&rdquo;.]]></description>
 </item>
 </channel>
 </rss>
